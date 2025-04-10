@@ -1,0 +1,6 @@
+{
+    "target_url": "http://127.0.0.1:5000/login",
+    "username": "admin",
+    "dictionary_file": "dictionaries/top100_fake.txt",
+    "use_user_agents": true
+}
